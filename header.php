@@ -1,8 +1,5 @@
 <?php
-/* =====================================================
-   FICHIER PARTIEL : En-tête commun à toutes les pages
-   Inclus avec : include 'includes/header.php';
-   ===================================================== */
+
 
 // Calculer le nombre d'articles dans le panier pour le badge
 $cart_count = 0;

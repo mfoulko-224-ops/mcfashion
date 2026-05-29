@@ -1,9 +1,5 @@
 <?php
-/* =====================================================
-   PAGE PANIER — cart.php
-   Affiche les articles, permet modifier les quantités,
-   supprimer des articles et passer à la caisse
-   ===================================================== */
+
 
 include 'db.php';
 session_start();

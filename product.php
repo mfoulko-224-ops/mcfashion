@@ -1,8 +1,5 @@
 <?php
-/* =====================================================
-   PAGE DÉTAIL PRODUIT — product.php
-   Affiche les informations complètes d'un produit
-   ===================================================== */
+
 
 include 'db.php';
 session_start();

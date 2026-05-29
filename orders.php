@@ -1,8 +1,5 @@
 <?php
-/* =====================================================
-   PAGE MES COMMANDES — orders.php
-   Affiche l'historique des commandes de l'utilisateur connecté
-   ===================================================== */
+
 
 include 'db.php';
 session_start();

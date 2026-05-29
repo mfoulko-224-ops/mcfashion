@@ -1,9 +1,5 @@
 <?php
-/* =====================================================
-   PAGE CHECKOUT — checkout.php
-   Formulaire de livraison et validation de commande
-   Nécessite d'être connecté et d'avoir des articles dans le panier
-   ===================================================== */
+
 
 include 'db.php';
 session_start();

@@ -1,8 +1,4 @@
 <?php
-/* =====================================================
-   PAGE AUTHENTIFICATION — auth.php
-   Gère : connexion, inscription, déconnexion
-   ===================================================== */
 
 include 'db.php';
 session_start();

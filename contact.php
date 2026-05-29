@@ -1,8 +1,5 @@
 <?php
-/* =====================================================
-   PAGE CONTACT — contact.php
-   Formulaire de contact qui sauvegarde en BDD
-   ===================================================== */
+
 
 include 'db.php';
 session_start();
